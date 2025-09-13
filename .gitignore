@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+*.log
+
+# Environments
+.venv/
+venv/
+.env
+.env.*
+
+# IDEs
+.idea/
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Datasets and others
+runs/
+datasets/
+data/
+checkpoints/
+outputs/
+results/
+media/
+*.onnx
+*.engine
+*.pth
+
+# Colab / Jupyter
+.ipynb_checkpoints/

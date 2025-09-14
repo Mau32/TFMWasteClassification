@@ -97,10 +97,13 @@ Los pesos están en la carpeta `weights/`.
 
 ---
 
-## 🧩 Bases de datos y videos
+## 🧩 Enlaces relevantes
 
 - **Bases de datos**: utilizadas para este TFM, disponibles en https://mega.nz/folder/xl5zHIxQ#cZ7AY5HGoctJ8lNEyEN3RA.  
-- **Videos del sistema en funcionamiento**: accesibles en la lista de reproducción de YouTube https://www.youtube.com/playlist?list=PL7M1fQJCSgQcr_DgHD3ZIVviH09riklLt.  
+- **Videos del sistema en funcionamiento**: accesibles en la lista de reproducción de YouTube https://www.youtube.com/playlist?list=PL7M1fQJCSgQcr_DgHD3ZIVviH09riklLt.
+- **Scripts de entrenamiento Google Colab Notebooks**: utilizados para el reentranemiento de los modelos:
+  - https://colab.research.google.com/drive/1LJx3o_qCiY7XvwKirQhIxRT5SHodkWq7?usp=drive_link
+  - https://colab.research.google.com/drive/13PWNDt4WnBbizawfPwXNcWRtxjsbD3Kg?usp=drive_link
  
 ---
 

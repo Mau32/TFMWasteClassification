@@ -49,9 +49,9 @@ El repositorio incluye dos modelos entrenados finales:
 - **Propuesta I (1E)**: `Carton`, `Envases`, `Vidrio`  
 - **Propuesta II (2D)**: `Carton`, `Latas`, `Plastico`, `Vidrio`  
 
-Los pesos están en la carpeta `weights/`.  
+Los pesos están en la carpeta `Yolo-Weights/`.  
 
-👉 En caso de querer entrenar nuevos modelos, los enlaces a las bases de datos y notebooks de entrenamiento en Google Colab se encuentran en los **Anexos de la memoria**.  
+👉 En caso de querer entrenar nuevos modelos, los enlaces a las bases de datos y notebooks de entrenamiento en Google Colab se encuentran en **Enlaces relevantes**.  
 
 ---
 

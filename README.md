@@ -72,15 +72,15 @@ Los pesos están en la carpeta `Yolo-Weights/`.
      ```  
 
 3. **Elegir la propuesta de clasificación**  
-   - En `main.py`, seleccionar el modelo YOLO correspondiente:  
+   - En `main.py`, seleccionar el modelo YOLO correspondiente editando el script:  
      ```python
      # Para Propuesta I:
-     model = YOLO("weights/yolov8l_PROPUESTA_I.pt")
-     # objects = ["Carton", "Envases", "Vidrio"]
+     model = YOLO("Yolo-Weights/yolov8l_PROPUESTA_I.pt")
+     objects = ['Carton', 'Envases', 'Vidrio']
 
      # Para Propuesta II:
-     model = YOLO("weights/yolov8l_PROPUESTA_II.pt")
-     # objects = ["Carton", "Latas", "Plastico", "Vidrio"]
+     model = YOLO("Yolo-Weights/yolov8l_PROPUESTA_II.pt")
+     objects = ['Carton', 'Latas', 'Plastico', 'Vidrio']
      ```
    - Asegúrate de comentar o descomentar la lista de clases adecuada según la propuesta elegida.  
 
